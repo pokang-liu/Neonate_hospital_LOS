@@ -81,3 +81,5 @@ Simple helper functions of pandas dataframe manipulation.
 -    [3]W. E. e. a. Horbar JD, Onstad L, “Predicting mortality risk for infants weighing 501 to 1500grams at birth: a national institutes of health neonatal research network report.
 -    [4] The crib (clinical risk index for babies) score: a tool for assessing initial neonatal risk and com-paring performance of neonatal intensive care units. https://pubmed.ncbi.nlm.nih.gov/8100927/.
 -    [5] MIMIC Code Repository (https://github.com/MIT-LCP/mimic-code)
+-   [6] Johnson, Alistair EW, David J. Stone, Leo A. Celi, and Tom J. Pollard. "The MIMIC Code Repository: enabling reproducibility in critical care research." Journal of the American Medical Informatics Association (2017): ocx084.
+
