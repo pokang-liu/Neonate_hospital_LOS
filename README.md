@@ -63,8 +63,8 @@ Calculate PO2 score based on [2, 3, 4] definition. Scored as binary normal and a
 
 ### Model.ipynb
 
-Feature selection and Classification
-Load all feature files and merge to a single dataframe. Classification using Logisitc Regression and RandomForest  
+Feature selection and Classification.
+Load all feature files and merge to a single dataframe. Classification using Logisitc Regression and RandomForest. Feature selection using Logistic weight and feature importance
 
 
 
