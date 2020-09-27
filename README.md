@@ -48,10 +48,10 @@ SQL syntax extract the neonate patients rows.
 ### neo_los_label_prepare.ipynb
 Calculate the noenate hospital length of stay, binarize to CLASS 1: LOS < mean(LOS), and CLASS 2: LOS > mean(LOS)
 
-### First_day_lab_test.ipynb
+### Lab_test_value.ipynb
 This is based on [https://github.com/MIT-LCP/mimic-code]. Calculating the lab test biomarkers we interested.
 
-### First_day_blood_gas.ipynb
+### blood_gas_value.ipynb
 This is based on [https://github.com/MIT-LCP/mimic-code]. Calculating the blood gas test biomarkers we interested.
 
 
